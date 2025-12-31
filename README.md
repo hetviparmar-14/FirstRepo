@@ -1,4 +1,4 @@
 # FirstRepo
 This is my first repository.
 <br>
-Author: Hetvi Parmar
+Author: Hetvi (Tiya) Parmar
